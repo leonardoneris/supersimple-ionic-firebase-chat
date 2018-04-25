@@ -1,0 +1,19 @@
+.login {
+    margin-right: 30px;
+}
+
+.msg-input {
+    margin-top: 2px;
+}
+
+.submit-btns {
+    text-align: center;
+}
+
+.platform-android .bar.bar-footer .title {right: 65px;}
+
+.platform-android .bar.bar-footer .title input {width: 100%;border-radius:5px;padding:0 10px;margin-top:5px;}
+
+.platform-android .bar.bar-footer button.button , .platform-android .bar-header button.button {right:10px; border:1px solid #FFF; padding:0 16px; border-radius:0 5px 5px 0}
+
+.platform-android .bar-header button.button {border-radius:5px;}
